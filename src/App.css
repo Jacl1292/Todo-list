@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  
+}
+.form h1{
+  text-align: center;
+  font-size: 80px;
+  color: darkkhaki;
+}
+.form{
+  margin: auto;
+  
+  
+  /*height: 160px;*/
+  width: 560px;
+}
+.form .form-input{
+  
+  border: 0px 1px solid rgba(0, 0, 0, 0.5);
+  height: 50px;
+  width: 560px;
+  background-color: rgb(255, 248, 240);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);;
+}
+.form .input{
+  border: 0px;
+  outline: none;
+  height: 30px;
+  width: 510px;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.form .form-todo{
+  border: 0px 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);;
+  height: 50px;
+  width: 560px;
+  background-color: rgb(255, 248, 240);
+  margin: 0px;
+}
+.form .form-indic{
+  border: 0px 1px solid rgba(0, 0, 0, 1.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  height: 30px;
+  width: 560px;
+  background-color: rgb(255, 248, 240); 
+}
+.form .form-page1{
+  border: 0px 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  height: 5px;
+  width: 550px;
+  background-color: rgb(255, 248, 240); 
+  margin-left: 5px;
+}
+.form .form-page2{
+  border: 0px 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  height: 5px;
+  width: 540px;
+  background-color: rgb(255, 248, 240); 
+  margin-left: 10px;
+}
+.form .form-todo p{
+  height: 24px;
+  width: 485px;
+  margin-top: 0px;
+  font-size: 27px;
+  margin-left: 20px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+.form .form-todo button i{
+  margin-top: 10px;
+}
+.form .form-indic p{
+  margin-left: 10px;
+}
+
+
